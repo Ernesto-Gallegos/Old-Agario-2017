@@ -1,0 +1,29 @@
+{
+  "skinConfig": [
+    {
+      "skinName": "Kraken",
+      "cellColor": "004f0f"
+    },{
+	"skinName": "EvilMaster",
+	"cellColor": "6f2432"
+    },{
+	"skinName": "Chicken",
+	"cellColor": "f03005"
+    },{
+	"skinName": "JadeDragon",
+	"cellColor": "004c00"
+    },{
+	"skinName": "TinyJack",
+	"cellColor": "391a1c"
+    },{
+	"skinName": "ArachnoKid",
+	"cellColor": "1b6281"
+    },{
+	"skinName": "DarkWings",
+	"cellColor": "6f2432"
+    },{
+	"skinName": "Jotun",
+	"cellColor": "70ecff"
+    }
+  ]
+}
